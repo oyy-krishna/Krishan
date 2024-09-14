@@ -1,6 +1,6 @@
-### - 👋 Hi, I’m krishna
-## - 👻 I’m interested in coding 
-# - 🌱 I’m currently learning C++, java script, web.designing, Animation, And many more
+- 👋 Hi, I’m krishna
+- 👻 I’m interested in coding 
+- 🌱 I’m currently learning C++, java script, web.designing, Animation, And many more
 - 💞️ I’m looking to collaborate on projects and works 
 - 📫 How to reach me_ through LinkedIn 
 
